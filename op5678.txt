@@ -1,0 +1,6389 @@
+
+Region :1 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :2 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :3 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :4 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :5 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :6 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :7 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :8 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :9 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :10 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :11 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :12 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :13 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :14 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :15 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :16 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :17 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :18 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :19 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :20 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :21 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :22 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :23 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :24 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :25 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :26 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :27 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :28 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :29 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :30 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :31 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :32 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :33 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :34 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :35 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :36 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :37 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :38 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :39 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :40 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :41 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :42 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :43 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :44 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :45 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :46 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :47 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :48 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :49 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :50 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :51 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :52 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :53 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :54 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :55 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :56 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :57 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :58 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :59 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :60 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :61 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :62 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :63 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :64 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :65 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :66 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :67 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :68 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :69 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :70 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :71 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :72 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :73 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :74 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :75 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :76 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :77 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :78 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :79 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :80 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :81 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :82 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :83 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :84 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :85 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :86 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :87 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :88 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :89 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :90 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :91 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :92 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :93 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :94 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :95 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :96 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :97 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :98 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :99 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :100 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :101 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :102 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :103 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :104 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :105 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :106 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :107 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :108 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :109 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :110 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :111 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :112 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :113 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :114 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :115 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :116 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :117 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :118 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :119 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :120 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :121 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :122 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :123 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :124 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :125 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :126 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :127 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :128 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :129 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :130 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :131 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :132 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :133 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :134 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :135 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :136 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :137 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :138 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :139 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :140 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :141 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :142 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :143 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :144 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :145 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :146 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :147 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :148 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :149 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :150 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :151 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :152 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :153 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :154 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :155 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :156 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :157 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :158 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :159 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :160 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :161 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :162 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :163 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :164 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :165 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :166 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :167 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :168 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :169 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :170 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :171 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :172 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :173 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :174 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :175 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :176 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :177 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :178 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :179 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :180 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :181 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :182 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :183 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :184 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :185 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :186 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :187 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :188 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :189 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :190 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :191 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :192 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :193 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :194 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :195 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :196 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :197 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :198 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :199 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :200 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :201 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :202 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :203 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :204 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :205 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :206 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :207 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :208 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :209 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :210 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :211 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :212 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :213 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :214 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :215 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :216 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :217 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :218 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :219 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :220 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :221 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :222 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :223 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :224 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :225 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :226 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :227 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :228 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :229 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :230 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :231 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :232 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :233 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :234 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :235 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :236 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :237 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :238 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :239 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :240 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :241 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :242 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :243 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :244 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :245 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :246 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :247 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :248 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :249 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :250 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :251 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :252 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :253 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :254 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :255 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :256 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :257 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :258 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :259 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :260 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :261 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :262 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :263 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :264 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :265 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :266 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :267 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :268 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :269 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :270 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :271 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :272 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :273 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :274 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :275 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :276 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :277 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :278 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :279 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :280 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :281 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :282 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :283 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :284 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :285 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :286 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :287 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :288 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :289 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :290 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :291 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :292 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :293 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :294 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :295 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :296 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :297 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :298 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :299 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :300 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :301 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :302 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :303 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :304 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :305 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :306 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :307 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :308 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :309 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :310 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :311 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :312 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :313 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :314 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :315 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :316 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :317 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :318 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :319 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :320 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :321 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :322 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :323 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :324 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :325 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :326 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :327 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :328 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :329 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :330 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :331 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :332 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :333 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :334 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :335 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :336 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :337 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :338 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :339 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :340 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :341 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :342 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :343 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :344 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :345 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :346 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :347 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :348 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :349 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :350 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :351 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :352 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :353 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :354 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :355 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :356 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :357 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :358 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :359 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :360 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :361 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :362 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :363 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :364 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :365 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :366 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :367 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :368 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :369 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :370 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :371 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :372 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :373 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :374 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :375 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :376 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :377 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :378 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :379 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :380 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :381 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :382 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :383 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :384 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :385 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :386 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :387 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :388 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :389 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :390 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :391 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :392 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :393 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :394 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :395 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :396 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :397 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :398 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :399 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :400 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :401 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :402 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :403 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :404 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :405 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :406 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :407 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :408 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :409 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :410 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :411 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :412 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :413 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :414 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :415 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :416 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :417 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :418 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :419 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :420 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :421 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :422 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :423 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :424 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :425 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :426 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :427 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :428 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :429 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :430 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :431 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :432 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :433 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :434 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :435 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :436 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :437 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :438 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :439 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :440 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :441 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :442 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :443 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :444 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :445 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :446 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :447 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :448 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :449 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :450 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :451 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :452 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :453 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :454 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :455 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :456 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :457 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :458 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :459 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :460 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :461 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :462 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :463 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :464 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :465 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :466 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :467 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :468 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :469 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :470 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :471 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :472 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :473 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :474 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :475 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :476 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :477 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :478 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :479 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :480 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :481 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :482 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :483 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :484 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :485 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :486 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :487 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :488 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :489 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :490 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :491 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :492 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :493 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :494 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :495 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :496 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :497 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :498 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :499 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :500 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :501 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :502 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :503 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :504 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :505 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :506 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :507 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :508 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :509 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :510 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :511 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :512 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :513 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :514 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :515 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :516 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :517 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :518 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :519 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :520 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :521 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :522 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :523 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :524 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :525 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :526 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :527 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :528 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :529 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :530 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :531 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :532 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :533 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :534 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :535 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :536 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :537 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :538 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :539 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :540 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :541 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :542 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :543 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :544 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :545 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :546 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :547 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :548 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :549 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :550 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :551 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :552 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :553 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :554 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :555 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :556 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :557 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :558 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :559 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :560 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :561 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :562 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :563 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :564 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :565 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :566 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :567 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :568 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :569 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :570 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :571 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :572 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :573 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :574 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :575 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :576 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :577 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :578 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :579 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :580 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :581 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :582 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :583 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :584 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :585 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :586 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :587 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :588 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :589 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :590 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :591 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :592 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :593 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :594 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :595 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :596 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :597 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :598 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :599 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :600 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :601 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :602 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :603 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :604 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :605 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :606 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :607 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :608 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :609 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :610 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :611 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :612 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :613 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :614 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :615 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :616 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :617 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :618 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :619 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :620 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :621 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :622 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :623 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :624 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :625 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :626 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :627 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :628 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :629 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :630 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :631 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :632 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :633 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :634 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :635 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :636 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :637 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :638 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :639 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :640 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :641 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :642 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :643 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :644 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :645 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :646 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :647 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :648 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :649 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :650 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :651 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :652 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :653 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :654 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :655 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :656 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :657 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :658 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :659 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :660 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :661 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :662 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :663 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :664 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :665 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :666 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :667 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :668 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :669 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :670 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :671 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :672 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :673 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :674 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :675 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :676 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :677 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :678 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :679 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :680 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :681 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :682 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :683 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :684 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :685 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :686 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :687 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :688 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :689 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :690 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :691 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :692 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :693 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :694 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :695 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :696 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :697 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :698 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :699 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :700 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :701 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :702 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :703 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :704 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :705 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :706 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :707 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :708 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :709 pat=0 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :710 pat=0 
+  
+  
+  
+  
+  
+ 

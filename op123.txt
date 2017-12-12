@@ -1,0 +1,557 @@
+
+Region :1 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :2 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :3 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :4 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :5 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :6 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :7 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :8 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :9 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :10 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :11 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :12 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :13 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :14 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :15 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :16 pat=1 
+  
+  
+ 
+Region :1 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :2 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :3 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :4 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :5 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :6 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :7 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :8 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :9 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :10 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :11 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :12 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :13 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :14 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :15 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :16 pat=1 
+  
+  
+ 
+Region :1 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :2 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :3 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :4 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :5 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :6 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :7 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :8 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :9 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :10 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :11 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :12 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :13 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :14 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :15 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :16 pat=1 
+  
+  
+ 
+Region :1 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :2 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :3 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :4 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :5 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :6 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :7 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :8 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :9 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :10 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :11 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :12 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :13 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :14 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :15 pat=1 
+  
+  
+  
+  
+  
+  
+  
+ 
+Region :16 pat=1 
+  
+  
+ 
